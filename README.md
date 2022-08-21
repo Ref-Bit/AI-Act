@@ -3,6 +3,7 @@
 A web app to read news from different resources through Alan AI.
 
 ---
+![Showcase](./public/showcase.png)
 
 #### Built With
 
